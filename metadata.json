@@ -1,0 +1,6 @@
+{
+  "name": "Vitrine Digital | Criação de Sites Profissionais",
+  "description": "Agência de criação de sites profissionais para comerciantes, lojas e prestadores de serviços no Brasil. Sites modernos, adaptados para celular, integrados ao WhatsApp com entrega no mesmo dia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
